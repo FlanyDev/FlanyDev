@@ -1,22 +1,22 @@
-![MasterHead](https://private-user-images.githubusercontent.com/199220816/413249984-03374d22-defa-4413-994f-1ce844ea0602.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjYyNjgsIm5iZiI6MTczOTUyNTk2OCwicGF0aCI6Ii8xOTkyMjA4MTYvNDEzMjQ5OTg0LTAzMzc0ZDIyLWRlZmEtNDQxMy05OTRmLTFjZTg0NGVhMDYwMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwOTM5MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTY1NmJkYmM0OWVkZTA2MDhlMDYxZTU0NjQxNjNkZTcxOGJhYjUwYjU4NDFhN2M5ODViY2I2NWM1NmYzOWJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yi1rWp6f3Z07iE7xAUgodMBoTm0n9lx4iNsbfzS7L8w)
+![MasterHead](https://private-user-images.githubusercontent.com/199220816/413249980-327495e7-4afb-4b7c-b2f8-e6a2a6a89c31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjYyNjgsIm5iZiI6MTczOTUyNTk2OCwicGF0aCI6Ii8xOTkyMjA4MTYvNDEzMjQ5OTgwLTMyNzQ5NWU3LTRhZmItNGI3Yy1iMmY4LWU2YTJhNmE4OWMzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwOTM5MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmQ2MWM0MjEyZmRhODFjYTQzODc1ODRmOTU4ZDZlN2Y0MTA0YmIzMmIzMDQ4MmU5MmNlOGJiMjVhNmUwZDJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PEa7uDfcMez3DyvnT-VbYMyulnicdZ0fcvtUZhpT6xc)
 <div align="center">
  <a href="https://github.com/FlanyDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Flany+Dev™+%e2%9c%a8;%f0%9f%93%9a+Fivem+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Flany+Dev™+%e2%9c%a8;%f0%9f%93%9a+Fivem+&+Discord+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
 <img src="https://private-user-images.githubusercontent.com/199220816/413249907-e42e146a-6d04-4640-b0a2-687956fae574.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjU5ODgsIm5iZiI6MTczOTUyNTY4OCwicGF0aCI6Ii8xOTkyMjA4MTYvNDEzMjQ5OTA3LWU0MmUxNDZhLTZkMDQtNDY0MC1iMGEyLTY4Nzk1NmZhZTU3NC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwOTM0NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMzJjYmE2OWMzMWEyODNiMTZjODFhNGY0MTNmZDFkYTFmNzVmMjkwZDQ1YjJkMTg3NDQyY2E3NzhkOTgxMDAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i72qSO8GF22fZ5zdNHcvtcmhIYTlodv4KtamCpgVlGE" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Flany developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Multicharacter**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Fivem & Discord**
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+- 📫 How to reach me **flanydev@gmail.com** & Discord **flanyxd**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Flany?theme=dark&font=ABeeZee&ext=heatmap)(https://leetcode.com/CagatayAkkas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
