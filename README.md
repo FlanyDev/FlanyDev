@@ -1,7 +1,7 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/199220816/413249980-327495e7-4afb-4b7c-b2f8-e6a2a6a89c31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjYyNjgsIm5iZiI6MTczOTUyNTk2OCwicGF0aCI6Ii8xOTkyMjA4MTYvNDEzMjQ5OTgwLTMyNzQ5NWU3LTRhZmItNGI3Yy1iMmY4LWU2YTJhNmE4OWMzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwOTM5MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmQ2MWM0MjEyZmRhODFjYTQzODc1ODRmOTU4ZDZlN2Y0MTA0YmIzMmIzMDQ4MmU5MmNlOGJiMjVhNmUwZDJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PEa7uDfcMez3DyvnT-VbYMyulnicdZ0fcvtUZhpT6xc)
 <div align="center">
  <a href="https://github.com/FlanyDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Flany+Dev™+%e2%9c%a8;%f0%9f%93%9a+Fivem++Discord+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Flany+Dev™+%e2%9c%a8;%f0%9f%93%9a+Fivem+And+Discord+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
