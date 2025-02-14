@@ -1,12 +1,12 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead]([https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg](https://media.discordapp.net/attachments/1234547481526669324/1339891806694932531/Flany_Dev_-_Discord_Bot_Banner_Design.png?ex=67b05efc&is=67af0d7c&hm=00d6a45e199aa552de917bab9052badb1e57ca780626b8ead83d36a410ca0c8f&=&format=webp&quality=lossless&width=1349&height=449))
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ <a href="https://github.com/FlanyDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Flany+Dev™+%e2%9c%a8;%f0%9f%93%9a+Fivem+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="[https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif](https://media.discordapp.net/attachments/1234547481526669324/1339892040753872899/4k_gif_banner.gif?ex=67b05f34&is=67af0db4&hm=a0b9de8427e2630845597084837afa0ee5b7c78afd5b5ec43d7d37896b31172b&=&width=1191&height=670)" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
