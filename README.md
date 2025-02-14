@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **flanydev@gmail.com** & Discord **flanyxd**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Flany?theme=dark&font=ABeeZee&ext=heatmap)(https://leetcode.com/CagatayAkkas/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Flany?theme=dark&font=ABeeZee&ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
