@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<img src="[https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif](https://media.discordapp.net/attachments/1234547481526669324/1339892040753872899/4k_gif_banner.gif?ex=67b05f34&is=67af0db4&hm=a0b9de8427e2630845597084837afa0ee5b7c78afd5b5ec43d7d37896b31172b&=&width=1191&height=670)" alt="Coding" width=200 height=200 align="right">
+<img src="https://private-user-images.githubusercontent.com/199220816/413249909-14dce688-60c6-478e-86f0-ebca669f7061.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjU5ODgsIm5iZiI6MTczOTUyNTY4OCwicGF0aCI6Ii8xOTkyMjA4MTYvNDEzMjQ5OTA5LTE0ZGNlNjg4LTYwYzYtNDc4ZS04NmYwLWViY2E2NjlmNzA2MS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwOTM0NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OWZlZTVkNzdlNDlhOTg1ZTczNjdlMTY2MDE1YWZhZGY4ZmIzYTEyZTg2ZGZjMzczODVmYzM1YzU0MDRlYmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7MqitllJEy1bj6eTSo58vQIn6zZs9H7VLKqsitR9gTA" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
